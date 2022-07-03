@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on Front End Projects.
 - 📫 How to reach me: odhiseaanastas@gmail.com
 - 🏋️ In my free time I like to workout.
-      When I workout I go for running or weights.
+      When I workout I go for running or gym.
 
