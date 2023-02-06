@@ -6,10 +6,10 @@
 - 🎓 In the past I was studying Automation Engineering. 
 
    #  My tech stack
-   - HTML5
-   - CSS3
-   - JavaScript
-   - React
+- HTML5
+- CSS3
+- JavaScript
+- React
 
    # Contact  
 - 👯 I’m looking to collaborate on Front End Projects.
