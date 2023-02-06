@@ -1,5 +1,6 @@
    👋 Hi
-   #My name is Anastas
+   
+   # My name is Anastas
 - 🎓 I'm going through the Full-Stack Engineer path in Codecademy.
 - 🎓 In the past I was studying Automation Engineering. 
 
