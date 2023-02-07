@@ -4,6 +4,7 @@
 - 🎓 I'm going through the Full-Stack Engineer path in Codecademy.
 - 🌱 I’m currently learning Node.js.
 - 🎓 In the past I was studying Automation Engineering. 
+- - 🏋️ In my free time I like to lift weights and run.
 
    #  My tech stack
 - HTML5
@@ -16,7 +17,7 @@
 - 📫 How to reach me: 
       ✉️ email:odhiseaanastas@gmail.com
      
-  # In my free time...      
-- 🏋️ In my free time I like to lift weights and run.
+     
+
      
 
