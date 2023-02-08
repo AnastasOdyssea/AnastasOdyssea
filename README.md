@@ -18,7 +18,7 @@
 - 📫 How to reach me: 
       
       ✉️ email:odhiseaanastas@gmail.com
-https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
      
      
 
