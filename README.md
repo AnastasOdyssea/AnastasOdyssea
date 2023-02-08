@@ -16,6 +16,7 @@
 - 👯 I’m looking to collaborate on Front End Projects.
 - 📫 How to reach me: 
       ✉️ email:odhiseaanastas@gmail.com
+      https://www.linkedin.com/in/anastas-odyssea-316659187/
      
      
 
