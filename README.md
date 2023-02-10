@@ -1,9 +1,8 @@
    
    
    # 👋 Hi, my name is Anastas
-- 🎓 I'm going through the Full-Stack Engineer path in Codecademy.
-- 👯 Looking to collaborate on Full Stack Projects.
-- 🌱 I’m currently learning Node.js.
+- 🎓 I'm a Front End Engineer.
+- 👯 Looking to collaborate and gain experience on different project.
 - 🎓 In the past I was studying Automation Engineering. 
 - 🏋️ In my free time I like to lift weights and run.
 
@@ -19,11 +18,11 @@
 
 - 📫 How to reach me: 
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
       
        email:odhiseaanastas@gmail.com
       
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
       https://www.linkedin.com/in/anastas-odyssea-316659187/
      
