@@ -2,7 +2,7 @@
    
    # 👋 Hi, my name is Anastas
 - 🎓 I'm a Front End Engineer.
-- 👯 Looking to collaborate and gain experience on different project.
+- 👯 Looking to collaborate and gain experience on different projects.
 - 🎓 In the past I was studying Automation Engineering. 
 - 🏋️ In my free time I like to lift weights and run.
 
